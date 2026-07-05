@@ -482,6 +482,11 @@ Through this project, I strengthened my skills in:
 
 ---
 
+# Project Link
+[View here](https://github.com/Osi-Chidera-John/Global-Tuberculosis-TB-Treatment-Outcomes-Analysis-2010-2023-/tree/main/project_files)
+
+---
+
 # Project Structure
 
 ```text
